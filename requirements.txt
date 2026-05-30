@@ -1,0 +1,12 @@
+discord.py==2.3.2
+requests==2.31.0
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+pyautogui==0.9.54
+keyboard==0.13.5
+PyQt6==6.5.2
+python-dotenv==1.0.0
+discord.py
+requests
+python-dotenv
+flask
